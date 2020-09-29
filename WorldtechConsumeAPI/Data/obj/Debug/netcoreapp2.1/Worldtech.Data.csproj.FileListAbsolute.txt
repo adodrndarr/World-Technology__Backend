@@ -1,0 +1,12 @@
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\bin\Debug\netcoreapp2.1\Worldtech.Data.deps.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\bin\Debug\netcoreapp2.1\Worldtech.Data.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\bin\Debug\netcoreapp2.1\Worldtech.Data.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\bin\Debug\netcoreapp2.1\Worldtech.Domain.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\bin\Debug\netcoreapp2.1\Worldtech.Domain.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Data\obj\Debug\netcoreapp2.1\Worldtech.Data.pdb

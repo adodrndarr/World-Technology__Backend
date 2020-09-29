@@ -1,0 +1,9 @@
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\bin\Debug\netcoreapp2.1\Worldtech.Domain.deps.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\bin\Debug\netcoreapp2.1\Worldtech.Domain.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\bin\Debug\netcoreapp2.1\Worldtech.Domain.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\obj\Debug\netcoreapp2.1\Worldtech.Domain.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\obj\Debug\netcoreapp2.1\Worldtech.Domain.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\obj\Debug\netcoreapp2.1\Worldtech.Domain.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\obj\Debug\netcoreapp2.1\Worldtech.Domain.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\obj\Debug\netcoreapp2.1\Worldtech.Domain.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Domain\obj\Debug\netcoreapp2.1\Worldtech.Domain.pdb

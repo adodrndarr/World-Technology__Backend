@@ -1,0 +1,5 @@
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs

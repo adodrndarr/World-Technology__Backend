@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\Worldtech.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\Worldtech.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\Worldtech.Data.csproj",
+        "projectName": "Worldtech.Data",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\Worldtech.Data.csproj",
+        "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drnda_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Worldtech.Domain.csproj": {
+                "projectPath": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Worldtech.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Worldtech.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Worldtech.Domain.csproj",
+        "projectName": "Worldtech.Domain",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Worldtech.Domain.csproj",
+        "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\temp\\Peacenomouss\\files\\PROJECTS\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drnda_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

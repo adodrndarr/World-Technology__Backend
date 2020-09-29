@@ -1,0 +1,22 @@
+﻿@model ProductsViewModel
+
+
+<partial name="~/Views/Shared/PartialViews/Other/_ProductsCarousel.cshtml" />
+<partial name="~/Views/Shared/PartialViews/Other/_WelcomeUser.cshtml" />
+
+<h2 class="text-center">Dive deep into the World of different kinds of technologies!</h2>
+@foreach (var product in Model.Products)
+{
+    switch (product.Category)
+    {
+        case ProductCategory.Computer:
+            <partial name="~/Views/Shared/PartialViews/Computer/_ComputersOffers.cshtml" model="@product" />
+            break;
+        case ProductCategory.Gadget:
+            <partial name="~/Views/Shared/PartialViews/Gadget/_GadgetsOffers.cshtml" model="@product" />
+            break;
+        case ProductCategory.Laptop:
+            <partial name="~/Views/Shared/PartialViews/Laptop/_LaptopsOffers.cshtml" model="@product" />
+            break;
+    }
+}

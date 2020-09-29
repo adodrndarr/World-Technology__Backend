@@ -1,0 +1,42 @@
+﻿@model OrderViewModel
+
+
+<div class="row checkoutComplete">
+    <h3 class="text-center">Dear @Model.FirstName, we sent a transaction request to @Model.Email.</h3> <br />
+    <h4 class="text-center">Thank you, your order was successfully completed!</h4>
+
+    <table class="table table-dark">
+        <thead>
+            <tr>
+                <th scope="col" class="text-left">First name</th>
+                <th scope="col">Last name</th>
+                <th scope="col">Country</th>
+                <th scope="col">Email</th>
+                <th scope="col">Total</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr scope="row">
+                <td>@Model.FirstName</td>
+                <td>@Model.LastName</td>
+                <td>@Model.Country</td>
+                <td>@Model.Email</td>
+                <td>@Model.OrderTotal.ToString("c")</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    @if (Model.OrderDetails.Count != 0)
+    {
+        <br /><br />
+        <h2 class="text-center">Your ordered Product(s):</h2>
+        
+        @foreach (var orderDetail in Model.OrderDetails)
+        {
+            <partial name="~/Views/Shared/PartialViews/OrderDetail/_CurrentOrderDetail.cshtml" model="orderDetail" />
+        }
+
+    };
+</div>

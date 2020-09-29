@@ -1,0 +1,9 @@
+﻿@model ProductsViewModel
+
+
+<div class="row">
+    @foreach (var gadget in Model.Gadgets)
+    {
+        <partial name="~/Views/Shared/PartialViews/Gadget/_Gadgets.cshtml" model="@gadget" />
+    }
+</div>

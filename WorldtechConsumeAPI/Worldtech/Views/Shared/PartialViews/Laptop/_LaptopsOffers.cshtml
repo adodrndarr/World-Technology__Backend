@@ -1,0 +1,14 @@
+﻿@model ProductViewModel
+
+
+<div class="col-md-4 productOffer">    
+    <h4 class="text-left">@Html.DisplayNameFor(laptop => laptop.Price): @Html.DisplayFor(laptop => laptop.Price)</h4>
+    <h5>@Model.Name</h5>
+
+    <form asp-controller="Product" asp-action="SearchProduct" method="get" id="productImageForm">
+        <input type="image" height="300" width="400" src="~/images/laptops/@Model.Image" />
+        <input type="hidden" asp-for="Name" name="inputSearch"  />
+    </form>
+
+    <a asp-controller="Product" asp-action="Laptops" class="btn btn-primary">See details, Laptop offers</a>
+</div>

@@ -1,0 +1,52 @@
+2020-09-23 15:57:00.6923 INFO Got stored products from the database
+2020-09-23 16:01:37.0847 INFO Got stored products from the database
+2020-09-23 16:15:33.4446 INFO Got stored products from the database
+2020-09-23 16:18:03.7446 INFO Got computers from product service.
+2020-09-23 16:18:07.9844 INFO Got gadgets from product service.
+2020-09-23 16:18:11.1385 INFO Got laptops from product service.
+2020-09-23 16:18:20.7273 INFO Got the cheapest and most expensive product from product service.
+2020-09-23 16:18:43.7569 INFO Got stored products from the database
+2020-09-23 16:32:38.3981 INFO Got stored products from the database
+2020-09-23 16:34:47.1384 INFO Got computers from product service.
+2020-09-23 16:34:49.9844 INFO Got gadgets from product service.
+2020-09-23 16:34:53.5318 INFO Got laptops from product service.
+2020-09-23 16:34:59.1793 INFO Got the cheapest and most expensive product from product service.
+2020-09-23 16:35:08.0548 INFO Got all products from product service.
+2020-09-23 16:35:22.9054 INFO User Bob signed in successfully.
+2020-09-23 16:35:23.0034 INFO Got stored products from the database
+2020-09-23 16:35:43.9691 INFO A user signed out.
+2020-09-23 16:35:43.9814 INFO Got stored products from the database
+2020-09-23 16:35:56.6219 INFO Got all products from product service.
+2020-09-23 16:36:12.8811 INFO User John signed in successfully.
+2020-09-23 16:36:12.9533 INFO Got stored products from the database
+2020-09-23 16:36:19.4626 INFO Got computers from product service.
+2020-09-23 16:36:23.6828 INFO A product with id: 1 has been added to the shopping cart.
+2020-09-23 16:36:29.3808 INFO Got computers from product service.
+2020-09-23 16:36:30.9847 INFO Got gadgets from product service.
+2020-09-23 16:36:37.4011 INFO A product with id: 14 has been added to the shopping cart.
+2020-09-23 16:37:15.5854 INFO Got laptops from product service.
+2020-09-23 16:37:23.1595 INFO A product with id: 4 has been added to the shopping cart.
+2020-09-23 16:46:47.4391 INFO Got stored products from the database
+2020-09-23 16:50:00.4235 INFO Got computers from product service.
+2020-09-23 16:50:03.8147 INFO Got laptops from product service.
+2020-09-23 16:50:07.1370 INFO A product with id: 3 has been added to the shopping cart.
+2020-09-23 16:50:15.3143 INFO Got stored products from the database
+2020-09-23 16:50:32.3352 INFO An order has been created by John.
+2020-09-23 16:50:41.5085 INFO Got all products from product service.
+2020-09-23 16:50:43.5105 INFO Got computers from product service.
+2020-09-23 16:50:45.1614 INFO Got laptops from product service.
+2020-09-23 16:50:45.9587 INFO Got stored products from the database
+2020-09-23 16:50:49.6203 INFO Got the cheapest and most expensive product from product service.
+2020-09-23 16:50:52.9763 INFO Got laptops from product service.
+2020-09-23 16:50:54.8907 INFO Got stored products from the database
+2020-09-23 16:50:56.9031 INFO Got all products from product service.
+2020-09-23 16:51:00.6096 INFO A product with id: 2 has been added to the shopping cart.
+2020-09-23 16:51:14.3595 INFO An order has been created by John.
+2020-09-23 16:51:21.9150 INFO A user signed out.
+2020-09-23 16:51:21.9454 INFO Got stored products from the database
+2020-09-23 16:51:37.9960 INFO User Bob signed in successfully.
+2020-09-23 16:51:38.1291 INFO Got stored products from the database
+2020-09-23 16:52:46.3039 INFO Got products that user searched for from product service.
+2020-09-23 16:53:00.0303 INFO A user signed out.
+2020-09-23 16:53:00.1031 INFO Got stored products from the database
+2020-09-23 16:55:21.8027 INFO Got the cheapest and most expensive product from product service.

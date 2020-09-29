@@ -1,0 +1,21 @@
+﻿@model ProductViewModel
+@inject IProductService _productService
+
+
+@{ var descriptionParts = _productService.DivideDescription(Model.Description); }
+
+<div class="col-md-4">    
+    <h5>@Model.Name</h5>
+    <h4>@Html.DisplayNameFor(computer => computer.Price): @Html.DisplayFor(computer => computer.Price)</h4>    
+
+    <img height="300" width="400" src="~/images/computers/@Model.Image" />
+    @foreach (string part in descriptionParts) {<p>@part</p><br />}
+
+    <div class="addToCart text-center">
+        <a class="btn btn-primary" id="cartButton"
+           asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-productId="@Model.Id">
+            Add to cart
+        </a>
+    </div>
+
+</div>

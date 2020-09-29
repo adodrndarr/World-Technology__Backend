@@ -1,0 +1,17 @@
+﻿@model CurrentOrderDetailVM
+
+
+@switch (Model.Product.Category)
+{
+    case ProductCategory.Computer:
+        <partial name="~/Views/Shared/PartialViews/OrderDetail/_ComputerOD.cshtml" model="@Model" />
+        break;
+    case ProductCategory.Gadget:
+        <partial name="~/Views/Shared/PartialViews/OrderDetail/_GadgetOD.cshtml" model="@Model" />
+        break;
+    case ProductCategory.Laptop:
+        <partial name="~/Views/Shared/PartialViews/OrderDetail/_LaptopOD.cshtml" model="@Model" />
+        break;
+    default:
+        break;
+}

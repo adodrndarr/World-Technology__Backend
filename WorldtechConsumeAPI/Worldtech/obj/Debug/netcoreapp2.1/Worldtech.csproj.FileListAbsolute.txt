@@ -1,0 +1,259 @@
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.deps.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.dev.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csprojAssemblyReference.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfoInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfo.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.genruntimeconfig.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CopyComplete
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.input.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.output.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorCoreGenerate.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\About.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Computers.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Gadgets.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Laptops.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductNotFound.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\SearchProduct.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Computers.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ComputersOffers.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Gadgets.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GadgetsOffers.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Laptops.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LaptopsOffers.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Login.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ProductsCarousel.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\ShoppingCartIndex.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_WelcomeUser.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.deps.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.dev.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.input.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.output.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorCoreGenerate.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\About.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Computers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Gadgets.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Laptops.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductNotFound.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\SearchProduct.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Computers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ComputersOffers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Gadgets.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GadgetsOffers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Laptops.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LaptopsOffers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Login.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ProductsCarousel.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_WelcomeUser.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\ShoppingCartIndex.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.genruntimeconfig.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.deps.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.dev.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Presentation.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Presentation.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.input.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.output.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorCoreGenerate.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\About.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Computers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Gadgets.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Laptops.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductNotFound.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\SearchProduct.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Computer\_Computers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Computer\_ComputersOffers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Gadget\_Gadgets.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Gadget\_GadgetsOffers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Laptop\_Laptops.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Laptop\_LaptopsOffers.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_ComputerOD.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_CurrentOrderDetail.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_GadgetOD.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_LaptopOD.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Other\_Login.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Other\_ProductsCarousel.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Other\_WelcomeUser.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\ShoppingCartIndex.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.genruntimeconfig.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\nlog.config
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\nlog.config
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.deps.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.runtimeconfig.dev.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Data.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Presentation.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Services.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\bin\Debug\netcoreapp2.1\Presentation.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csprojAssemblyReference.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfoInputs.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.AssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CoreCompileInputs.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorAssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.input.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.TagHelpers.output.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorCoreGenerate.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\About.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Computers.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Gadgets.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\Laptops.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductNotFound.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Product\SearchProduct.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Computer\_Computers.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Computer\_ComputersOffers.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Gadget\_Gadgets.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Gadget\_GadgetsOffers.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Laptop\_Laptops.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Laptop\_LaptopsOffers.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_ComputerOD.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_CurrentOrderDetail.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_GadgetOD.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\OrderDetail\_LaptopOD.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Other\_Login.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Other\_ProductsCarousel.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Other\_WelcomeUser.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\ShoppingCartIndex.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.RazorTargetAssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.Views.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.csproj.CopyComplete
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Worldtech.genruntimeconfig.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Comments\_AddComment.cshtml.g.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Worldtech\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialViews\Comments\_UserComment.cshtml.g.cs

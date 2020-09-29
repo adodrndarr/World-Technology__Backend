@@ -1,0 +1,90 @@
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.deps.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.dev.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csprojAssemblyReference.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfoInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfo.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.genruntimeconfig.cache
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.deps.json
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.json
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.dev.json
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\Desktop\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.genruntimeconfig.cache
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.deps.json
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.json
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.dev.json
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\Desktop\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.genruntimeconfig.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.deps.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.dev.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorTargetAssemblyInfo.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.genruntimeconfig.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.deps.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.runtimeconfig.dev.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\bin\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csprojAssemblyReference.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfoInputs.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.AssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorAssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.RazorTargetAssemblyInfo.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.genruntimeconfig.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechApi\WorldtechApi\obj\Debug\netcoreapp2.1\WorldtechApi.csproj.CoreCompileInputs.cache

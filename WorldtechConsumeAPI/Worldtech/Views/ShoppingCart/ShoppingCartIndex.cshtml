@@ -1,0 +1,54 @@
+﻿@model ShoppingCartViewModel
+
+
+<div class="row cartIndex-checkoutForm">
+    <h2>Shopping cart</h2>
+    
+    <table class="table table-dark">
+        <thead>
+            <tr>
+                <th scope="col" class="text-left">Selected amount </th>
+                <th scope="col">Product</th>
+                <th scope="col" class="text-right">Price</th>
+                <th scope="col" class="text-right">Subtotal</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var cartItem in Model.ShoppingCart.ShoppingCartItems)
+            {
+                <tr scope="row">
+                    <td class="text-left">@cartItem.Amount</td>
+                    <td class="text-left">
+                        <a asp-controller="Product" asp-action="SearchProduct" 
+                           asp-route-inputSearch="@cartItem.Product.Name" class="productName">
+                            @cartItem.Product.Name
+                        </a>
+                    </td>
+                    <td class="text-right">@cartItem.Product.Price.ToString("c")</td>
+                    <td class="text-right">@((cartItem.Amount * cartItem.Product.Price).ToString("c"))</td>
+                    <td class="text-center">
+                        <a class="glyphicon glyphicon-remove text-danger"
+                           asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart"
+                           asp-route-productId="@cartItem.Product.Id">
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+        <tfoot>
+            <tr scope="row" class="text-right total">
+                <td colspan="3">Total:</td>
+                <td>@Model.ShoppingCartTotal.ToString("c")</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="text-left">
+        <div class="btn-group pull-right">
+            <a class="btn btn-success checkoutBtn" asp-controller="Order" asp-action="Checkout">Check out</a>
+        </div>
+    </div>
+</div>

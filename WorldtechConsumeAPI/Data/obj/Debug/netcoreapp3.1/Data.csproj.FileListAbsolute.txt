@@ -1,0 +1,5 @@
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs

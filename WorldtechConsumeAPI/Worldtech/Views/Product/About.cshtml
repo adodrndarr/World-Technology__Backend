@@ -1,0 +1,68 @@
+﻿@model ProductsViewModel
+
+
+<div class="row about">
+    <div class="col-md-12">
+        <h1 class="text-center">About Worldtech</h1>
+        <p>
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+        </p>
+    </div>
+
+    <div class="col-md-6 text-center">
+        <h3>
+            <span class="color-lighBrown">Cheapest product:</span>
+            @Model.Products[0].Name (<span class="color-lightGreen">@Model.Products[0].Price.ToString("c")</span>)
+        </h3>
+    </div>
+
+    <div class="col-md-6 text-center">
+        <h3>
+            <span class="color-lighBrown">Most expensive product:</span>
+            @Model.Products[1].Name (<span class="color-lightGreen">@Model.Products[1].Price.ToString("c")</span>)
+        </h3>
+    </div>
+
+    <div class="col-md-12 text-center">
+        <iframe src="https://www.youtube.com/embed/U-9tUEOFKNU" allowfullscreen></iframe>
+    </div>
+
+    <div class="col-md-4">
+        <h3>History of Worldtech</h3>
+        <p>
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+        </p>
+    </div>
+
+    <div class="col-md-4">
+        <h3>Access to information</h3>
+        <p>
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+        </p>
+    </div>
+
+    <div class="col-md-4">
+        <h3>Accessibillity Statement</h3>
+        <p>
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+            This application is a project built to have some real world application and meaning.
+        </p>
+    </div>
+
+    <partial name="~/Views/Shared/PartialViews/Comments/_AddComment.cshtml" model="@Model.Comment" />
+    <ul class="text-center">
+        @foreach (var comment in Model.Comments)
+        {
+            <partial name="~/Views/Shared/PartialViews/Comments/_UserComment.cshtml" model="@comment" />
+        }
+    </ul>    
+</div>

@@ -1,0 +1,8 @@
+﻿@model CommentVM
+
+<form asp-controller="Product" asp-action="SaveComment" class="commentForm">
+    <h2 class="text-center text-yellowish anonymousComment">Feel free to add an anonymous comment xD</h2>
+    <textarea asp-for="Message" class="center-block" cols="40" rows="3" maxlength="150" placeholder="Enter comment..."></textarea>
+    
+    <input id="addCommentBtn" class="center-block btn btn-success btn-lg" type="submit" value="Add comment" />
+</form>

@@ -1,0 +1,20 @@
+﻿@model ProductsViewModel
+
+
+<div class="row">
+    @foreach (var product in Model.Products)
+    {
+        switch (product.Category)
+        {            
+            case ProductCategory.Computer:
+                <partial name="~/Views/Shared/PartialViews/Computer/_Computers.cshtml" model="@product" />
+                break;
+            case ProductCategory.Gadget:
+                <partial name="~/Views/Shared/PartialViews/Gadget/_Gadgets.cshtml" model="@product" />
+                break;
+            case ProductCategory.Laptop:
+                <partial name="~/Views/Shared/PartialViews/Laptop/_Laptops.cshtml" model="@product" />
+                break;
+        }
+    }
+</div>

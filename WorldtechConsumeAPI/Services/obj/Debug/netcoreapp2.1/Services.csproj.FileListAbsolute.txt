@@ -1,0 +1,60 @@
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\source\repos\ASP.NET MVC\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\Desktop\WorldTechFromGit\Worldtech\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Presentation.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Presentation.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Data.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Presentation.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Presentation.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Services.pdb

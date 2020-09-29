@@ -1,0 +1,9 @@
+﻿@model ProductsViewModel
+
+
+<div class="row">
+    @foreach (var computer in Model.Computers)
+    {        
+        <partial name="~/Views/Shared/PartialViews/Computer/_Computers.cshtml" model="@computer" />        
+    }
+</div>

@@ -1,0 +1,13 @@
+2020-09-29 17:29:49.2898 INFO Got stored products from the database
+2020-09-29 17:32:10.2474 INFO Got stored products from the database
+2020-09-29 17:32:13.5267 INFO Got products that user searched for from product service.
+2020-09-29 17:32:38.4891 INFO User John signed in successfully.
+2020-09-29 17:32:38.6366 INFO Got stored products from the database
+2020-09-29 17:32:42.6280 INFO Got gadgets from product service.
+2020-09-29 17:32:55.1852 INFO A product with id: 9 has been added to the shopping cart.
+2020-09-29 17:33:07.8615 INFO An order has been created by John.
+2020-09-29 17:33:20.4859 INFO Got products that user searched for from product service.
+2020-09-29 17:33:23.4777 INFO Got stored products from the database
+2020-09-29 17:33:28.7954 INFO A user signed out.
+2020-09-29 17:33:28.8641 INFO Got stored products from the database
+2020-09-29 17:34:00.9056 INFO Got the cheapest and most expensive product from product service.

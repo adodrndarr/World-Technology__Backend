@@ -1,0 +1,14 @@
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Services.deps.json
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Services.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Services.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Data.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Domain.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Data.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\bin\Debug\netcoreapp2.1\Worldtech.Domain.pdb
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.dll
+C:\Users\drnda_000\Desktop\temp\Peacenomouss\files\PROJECTS\Backend Projects\WorldtechWithAPIRefactored\WorldtechWithAPI\Services\obj\Debug\netcoreapp2.1\Worldtech.Services.pdb

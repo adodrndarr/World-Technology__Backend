@@ -1,0 +1,11 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    char firstCharUpper = char.ToUpper(User.Identity.Name[0]);
+    string restOfName = User.Identity.Name.Substring(1);
+
+    string capitalizedName = firstCharUpper + restOfName;
+    <h4 class="text-center">Welcome @capitalizedName, enjoy the variety of products!</h4>
+}

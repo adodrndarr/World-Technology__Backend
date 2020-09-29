@@ -1,0 +1,11 @@
+﻿@model CurrentOrderDetailVM
+
+
+<div class="col-md-4 productOffer">    
+    <h4 class="text-left">@Model.Product.Name <br />( @Model.Product.Price.ToString("c") ) - x @Model.Amount</h4>
+
+    <form asp-controller="Product" asp-action="SearchProduct" method="get" id="productImageForm">
+        <input type="image" height="300" width="400" src="~/images/computers/@Model.Product.Image" />
+        <input type="hidden" asp-for="Product.Name" name="inputSearch" />
+    </form>
+</div>
