@@ -4754,11 +4754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Services\\obj\\",
+      "outputPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4777,11 +4777,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\Data.csproj": {
-              "projectPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Data\\Data.csproj"
+            "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Data\\Data.csproj"
             },
-            "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Presentation\\Presentation.csproj": {
-              "projectPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Presentation\\Presentation.csproj"
+            "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Presentation\\Presentation.csproj": {
+              "projectPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Presentation\\Presentation.csproj"
             }
           }
         }

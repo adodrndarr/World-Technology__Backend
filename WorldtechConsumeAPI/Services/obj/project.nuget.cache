@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19vLKbYmw6gulw+xighZk4G7r9kgFmiPbrrqxkAAL53tqvqfL7QfLc+H3XdPAQNkElq3KckCIaMBNgHKu5xFIg==",
+  "dgSpecHash": "JHNP+arnzVjHBnOe/xcmMaK9lM+zD49RRKmtShyZ0ohR2vDXHYfRuHSG/lncNzdxXX1kfZnhXoEKysvcod1I3w==",
   "success": true,
-  "projectFilePath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drnda_000\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\drnda_000\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

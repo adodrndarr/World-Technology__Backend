@@ -89,7 +89,7 @@ namespace Services
         public List<ProductViewModel> GetProductsFromApi(string apiUrl)
         {
             var client = new HttpClient();
-            string uri = "https://localhost:44354/";
+            string uri = "https://localhost:44354/"; // ******************** MIGHT NEED TO BE CHANGED ********************
             string url = apiUrl;
 
             string response = client.GetAsync(uri + url).Result.Content.ReadAsStringAsync().Result;

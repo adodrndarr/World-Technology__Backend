@@ -4623,11 +4623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Presentation\\Presentation.csproj",
+      "projectPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Presentation\\Presentation.csproj",
       "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Presentation\\obj\\",
+      "outputPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4646,8 +4646,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechWithAPI\\Domain\\Domain.csproj"
+            "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechConsumeAPI\\Domain\\Domain.csproj"
             }
           }
         }
