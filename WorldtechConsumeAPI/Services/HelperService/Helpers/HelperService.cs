@@ -33,7 +33,7 @@ namespace Services.HelperService.Helpers
             return false;
         }            
         
-        public static List<ProductViewModel> GetProductsWithInputTerm(string searchTerm, List<ProductViewModel> productsVMs)
+        public static List<ProductViewModel> GetProductsWithTerm(string searchTerm, List<ProductViewModel> productsVMs)
         {
             return productsVMs.FindAll(product =>
                                 ContainsSearchWord(searchTerm, product.Name) ||

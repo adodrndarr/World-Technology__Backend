@@ -18,35 +18,26 @@ namespace Data.Repositories.EntityRepositories
 
         public Product GetById(int id) => _worldtechContext.Products.SingleOrDefault(product => product.Id == id);
 
-        public void Insert(Product product)
-        {
-            _worldtechContext.Products.Add(product);
-            _worldtechContext.SaveChanges();
-        }
+        public void Insert(Product product) => _worldtechContext.Products.Add(product);        
+        public void Insert(List<Product> product) => _worldtechContext.Products.AddRange(product);
 
         public void Update(Product product)
         {
             Product productToUpdate = GetById(product.Id);
-            productToUpdate.Name = product.Name;
-            productToUpdate.Description = product.Description;
-            productToUpdate.Category = product.Category;
-            productToUpdate.Image = product.Image;
-            productToUpdate.Price = product.Price;
-
+            
             if (ProductExists(productToUpdate))
-            {
                 _worldtechContext.Products.Update(productToUpdate);
-                _worldtechContext.SaveChanges();
-            }               
         }
 
         public void DeleteById(int id)
         {
             var productToDelete = GetById(id);
 
-            if (ProductExists(productToDelete)) _worldtechContext.Products.Remove(productToDelete);
-            _worldtechContext.SaveChanges();
+            if (ProductExists(productToDelete)) 
+                _worldtechContext.Products.Remove(productToDelete);
         }
+        public void DeleteEntities(List<Product> entities) => _worldtechContext.Products.RemoveRange(entities);
+
 
         public bool ProductExists(Product product)
         {
@@ -54,5 +45,7 @@ namespace Data.Repositories.EntityRepositories
 
             return false;
         }
+
+        public void Save() => _worldtechContext.SaveChanges();
     }
 }

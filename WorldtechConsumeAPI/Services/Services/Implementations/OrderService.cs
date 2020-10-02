@@ -42,7 +42,11 @@ namespace Services
                 var currentOrderDetailVM = _mapper.Map<CurrentOrderDetailVM>(orderDetail);
                 var currentOrderDetail = _mapper.Map<CurrentOrderDetail>(currentOrderDetailVM);
                 _currentOrderDetailRepo.Insert(currentOrderDetail);                
-            }            
+            }
+
+            _orderRepo.Save();
+            _orderDetailRepo.Save();
+            _currentOrderDetailRepo.Save();
         }
 
         public List<CurrentOrderDetailVM> GetCurrentOrderDetails()

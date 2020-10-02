@@ -48,7 +48,7 @@ namespace Worldtech
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerManager logger)
         {
             if (env.IsDevelopment()) app.UseDeveloperExceptionPage();            
-            else app.UseHsts();            
+            else app.UseHsts();
 
             app.ConfigureExceptionHandler(logger);
             app.UseAuthentication();

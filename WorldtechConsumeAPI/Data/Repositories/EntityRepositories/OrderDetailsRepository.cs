@@ -14,38 +14,34 @@ namespace Data.Repositories.EntityRepositories
         }
 
 
-        public List<OrderDetail> GetAll() => this._worldtechContext.OrderDetails.ToList();
+        public List<OrderDetail> GetAll() => _worldtechContext.OrderDetails.ToList();
     
         public OrderDetail GetById(int id) 
             => _worldtechContext.OrderDetails.SingleOrDefault(orderDetail => orderDetail.Id == id);
     
-        public void Insert(OrderDetail entity)
-        {
-            _worldtechContext.OrderDetails.Add(entity);
-            _worldtechContext.SaveChanges();
-        }
+        public void Insert(OrderDetail entity) => _worldtechContext.OrderDetails.Add(entity);
+        public void Insert(List<OrderDetail> entities) => _worldtechContext.OrderDetails.AddRange(entities);
+
 
         public void Update(OrderDetail entity)
         {
-            OrderDetail orderToUpdate = GetById(entity.Id);
-            orderToUpdate.Order = entity.Order;
-            orderToUpdate.Amount = entity.Amount;
-            orderToUpdate.Price = entity.Price;
-            orderToUpdate.Product = entity.Product;
+            OrderDetail orderToUpdate = GetById(entity.Id);            
 
             if (OrderDetailExists(orderToUpdate))
-            {
-                _worldtechContext.OrderDetails.Update(orderToUpdate);
-                _worldtechContext.SaveChanges();
-            }
+               _worldtechContext.OrderDetails.Update(orderToUpdate);             
         }
+
         public void DeleteById(int id)
         {
             var orderToDelete = GetById(id);
 
-            if (OrderDetailExists(orderToDelete)) _worldtechContext.OrderDetails.Remove(orderToDelete);
-            _worldtechContext.SaveChanges();
+            if (OrderDetailExists(orderToDelete)) 
+                _worldtechContext.OrderDetails.Remove(orderToDelete);            
         }
+        public void DeleteEntities(List<OrderDetail> entities) => _worldtechContext.OrderDetails.RemoveRange(entities);
+
+
+        public void Save() => _worldtechContext.SaveChanges();
 
         public bool OrderDetailExists(OrderDetail orderDetail)
         {

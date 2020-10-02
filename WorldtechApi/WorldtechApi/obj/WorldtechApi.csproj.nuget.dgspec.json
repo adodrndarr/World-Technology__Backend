@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj": {}
+    "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj": {}
   },
   "projects": {
-    "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj": {
+    "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj",
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj",
         "projectName": "WorldtechApi",
-        "projectPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechApi\\WorldtechApi\\WorldtechApi.csproj",
         "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Backend Projects\\WorldtechWithAPIRefactored\\WorldtechApi\\WorldtechApi\\obj\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\Worldtech\\WorldtechApi\\WorldtechApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

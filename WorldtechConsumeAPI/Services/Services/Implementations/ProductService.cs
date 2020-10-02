@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Data;
 using Data.Repositories;
 using Domain;
 using Newtonsoft.Json;
@@ -15,15 +14,16 @@ namespace Services
     public class ProductService : IProductService
     {
         private IRepository<Product> _productRepository;
-        private WorldtechDbContext _worldtechDbContext;
+        private IRepository<Comment> _commentRepository;
         private readonly IMapper _mapper;
         private List<Product> _currentProducts;
-        public ProductService(IRepository<Product> productRepository, WorldtechDbContext worldtechDbContext,
-                              IMapper mapper)
+
+        public ProductService(IRepository<Product> productRepository, IMapper mapper, 
+                              IRepository<Comment> commentRepository)
         {
             this._productRepository = productRepository;
-            this._worldtechDbContext = worldtechDbContext;
             this._mapper = mapper;
+            this._commentRepository = commentRepository;
         }
 
 
@@ -34,24 +34,33 @@ namespace Services
 
             return productsVMs;
         }
+
         public List<ProductViewModel> GetProductsByName(string name)
         {
             var products = _productRepository.GetAll().FindAll(product => product.Name == name);
             return _mapper.Map<List<ProductViewModel>>(products);
         }
+        
         public ProductViewModel GetProductById(int id)
         {
             var product = _productRepository.GetById(id);
             return _mapper.Map<ProductViewModel>(product);
         }
+        
         public int GetNumberOfProducts() => _productRepository.GetAll().Count;
 
         public void AddNewProduct(ProductViewModel productVM)
         {
             var product = _mapper.Map<Product>(productVM);
             _productRepository.Insert(product);
+            _productRepository.Save();
         }
-        public void RemoveProductById(int id) => _productRepository.DeleteById(id);
+
+        public void RemoveProductById(int id)
+        {
+            _productRepository.DeleteById(id);
+            _productRepository.Save();
+        }
 
         public ProductViewModel GetMostExpensiveProduct()
         {
@@ -60,6 +69,7 @@ namespace Services
 
             return _mapper.Map<ProductViewModel>(mostExpensiveProduct);
         }
+
         public ProductViewModel GetCheapestProduct()
         {
             double lowestPrice = _productRepository.GetAll().Min(product => product.Price);
@@ -69,20 +79,19 @@ namespace Services
         }
 
 
-
         public List<ProductViewModel> GetComputers() 
         {
-            return _mapper.Map<List<ProductViewModel>>(_worldtechDbContext.Computers) // Why aren't the pcs from line 127 filtered?
+            return _mapper.Map<List<ProductViewModel>>(_productRepository.GetAll())
                 .Where(product => product.Category == ProductCategory.Computer).ToList();            
         }
         public List<ProductViewModel> GetGadgets()
         {
-            return _mapper.Map<List<ProductViewModel>>(_worldtechDbContext.Gadgets) 
+            return _mapper.Map<List<ProductViewModel>>(_productRepository.GetAll()) 
                 .Where(product => product.Category == ProductCategory.Gadget).ToList();
         }
         public List<ProductViewModel> GetLaptops()
         {
-            return _mapper.Map<List<ProductViewModel>>(_worldtechDbContext.Laptops)
+            return _mapper.Map<List<ProductViewModel>>(_productRepository.GetAll())
                 .Where(product => product.Category == ProductCategory.Laptop).ToList();
         }
 
@@ -100,35 +109,9 @@ namespace Services
         }
 
         public void PopulateDbWithProducts()
-        {
-            var computers = new List<Product>();
-            var gadgets = new List<Product>();
-            var laptops = new List<Product>();
-
-            foreach (var product in _currentProducts)
-            {
-                switch (product.Category)
-                {
-                    case ProductCategory.Computer:
-                        computers.Add(product);
-                        break;
-                    case ProductCategory.Gadget:
-                        gadgets.Add(product);
-                        break;
-                    case ProductCategory.Laptop:
-                        laptops.Add(product);
-                        break;
-                    default:
-                        break;
-                }
-            }
-
-            _worldtechDbContext.Products.AddRange(_currentProducts);
-            _worldtechDbContext.Computers.AddRange(computers); // Why aren't the pcs filtered?(here they are but at line 75 they aren't...)
-            _worldtechDbContext.Gadgets.AddRange(gadgets);
-            _worldtechDbContext.Laptops.AddRange(laptops);
-
-            _worldtechDbContext.SaveChanges();
+        {            
+            _productRepository.Insert(_currentProducts);            
+            _productRepository.Save();
         }
 
         public List<string> DivideDescription(string description)
@@ -147,17 +130,18 @@ namespace Services
             return new List<string>() { description1, description2 };
         }
 
-        public List<CommentVM> GetComments() => _mapper.Map<List<CommentVM>>(_worldtechDbContext.Comments.ToList());
+        public List<CommentVM> GetComments() => _mapper.Map<List<CommentVM>>(_commentRepository.GetAll());
         public void SaveComment(CommentVM commentVM)
         {
             var comment = _mapper.Map<Comment>(commentVM);
-            _worldtechDbContext.Comments.Add(comment);
-            _worldtechDbContext.SaveChanges();
+
+            _commentRepository.Insert(comment);
+            _commentRepository.Save();
         }
         public void DeleteAllComents()
         {
-            _worldtechDbContext.Comments.RemoveRange(_worldtechDbContext.Comments);
-            _worldtechDbContext.SaveChanges();
+            _commentRepository.DeleteEntities(_commentRepository.GetAll());
+            _commentRepository.Save();
         }
     }
 }

@@ -22,6 +22,7 @@ namespace Services.HelperService.Helpers
             services.AddTransient<IRepository<Order>, OrderRepository>();
             services.AddTransient<IRepository<OrderDetail>, OrderDetailsRepository>();
             services.AddTransient<IRepository<CurrentOrderDetail>, CurrentOrderDetailsRepository>();
+            services.AddTransient<IRepository<Comment>, CommentRepository>();
 
             return services;
         }
@@ -30,8 +31,8 @@ namespace Services.HelperService.Helpers
         {
             services.AddTransient<IProductService, ProductService>();
             services.AddTransient<IOrderService, OrderService>();
-            services.AddAutoMapper(typeof(OrderProfile), typeof(ProductProfile));
             services.AddScoped(shoppingCart => ShoppingCartService.GetCart(shoppingCart));
+            services.AddAutoMapper(typeof(OrderProfile), typeof(ProductProfile));
             services.AddSingleton<ILoggerManager, LoggerManager>();
 
             return services;

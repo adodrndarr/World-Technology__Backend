@@ -90,7 +90,7 @@ namespace Worldtech.Controllers
             if (!HelperService.AProductExists(productsVMs)) RedirectToAction(nameof(ProductNotFound), new { message = "" });
             _logger.LogInfo("Got products that user searched for from product service.");
 
-            var productsFound = HelperService.GetProductsWithInputTerm(inputSearch, productsVMs);
+            var productsFound = HelperService.GetProductsWithTerm(inputSearch, productsVMs);
             if (productsFound.Count == 0) return RedirectToAction(nameof(ProductNotFound), new { message = inputSearch});
             else productsVMs = productsFound;
             
