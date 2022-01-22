@@ -43,9 +43,7 @@ namespace Worldtech.Controllers
         public IActionResult Checkout(OrderViewModel order)
         {
             ViewData["Title"] = "Checkout";
-
-            var items = _shoppingCart.GetShoppingCartItems();
-            _shoppingCart.ShoppingCartItems = items;
+            _shoppingCart.ShoppingCartItems = _shoppingCart.GetShoppingCartItems();
 
             if (ModelState.IsValid)
             {
@@ -73,7 +71,8 @@ namespace Worldtech.Controllers
             if (currentOrderDetails != null)
                 orderDetails = JsonConvert.DeserializeObject<List<CurrentOrderDetailVM>>(currentOrderDetails.ToString());
 
-            if (orderDetails.Count == 0) return RedirectToAction(nameof(ProductController.Index), nameof(Product));
+            if (orderDetails.Count == 0) 
+                return RedirectToAction(nameof(ProductController.Index), nameof(Product));
 
             order.OrderDetails = orderDetails;
             return View(order);

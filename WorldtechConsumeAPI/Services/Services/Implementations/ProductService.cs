@@ -64,16 +64,20 @@ namespace Services
 
         public ProductViewModel GetMostExpensiveProduct()
         {
-            double highestPrice = _productRepository.GetAll().Max(product => product.Price);
-            var mostExpensiveProduct = _productRepository.GetAll().FirstOrDefault(product => product.Price == highestPrice);
+            var products = _productRepository.GetAll();
+
+            double highestPrice = products?.Max(product => product.Price) ?? default;
+            var mostExpensiveProduct = products?.FirstOrDefault(product => product.Price == highestPrice);
 
             return _mapper.Map<ProductViewModel>(mostExpensiveProduct);
         }
 
         public ProductViewModel GetCheapestProduct()
         {
-            double lowestPrice = _productRepository.GetAll().Min(product => product.Price);
-            var cheapestProduct = _productRepository.GetAll().FirstOrDefault(product => product.Price == lowestPrice);
+            var products = _productRepository.GetAll();
+
+            double lowestPrice = products?.Min(product => product.Price) ?? default;
+            var cheapestProduct = products?.FirstOrDefault(product => product.Price == lowestPrice);
 
             return _mapper.Map<ProductViewModel>(cheapestProduct);
         }

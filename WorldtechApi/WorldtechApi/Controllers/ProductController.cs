@@ -22,7 +22,8 @@ namespace WorldtechApi.Controllers
         public ActionResult<List<Product>> GetProducts()
         {
             var products = _productService.GetProducts();
-            if (products.Count == 0) return NotFound();
+            if (products.Count == 0) 
+                return NotFound();
 
             return products;
         }

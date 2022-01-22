@@ -56,12 +56,14 @@ namespace Services
 
             _worldTechDbContext.SaveChanges();
         }
-        public ShoppingCartItem GetCartItemById(int id)
+
+        public ShoppingCartItem GetCartItemById(int productId)
         {
             return _worldTechDbContext.ShoppingCartItems.SingleOrDefault(cartItem =>
-                                         cartItem.Product.Id == id &&
+                                         cartItem.Product.Id == productId &&
                                          cartItem.ShoppingCartId == this.Id);
         }
+
         public int RemoveFromCart(Product product)
         {
             var shoppingCardItem = GetCartItemById(product.Id);
@@ -80,6 +82,7 @@ namespace Services
 
             return localAmount;
         }
+
         public List<ShoppingCartItem> GetShoppingCartItems()
         {
             if (this.ShoppingCartItems == null) return _worldTechDbContext.ShoppingCartItems
@@ -88,10 +91,10 @@ namespace Services
                     .ToList();
             else return this.ShoppingCartItems;
         }
+
         public void ClearCart()
         {
-            var cartItems = _worldTechDbContext.ShoppingCartItems
-                .Where(cartItem => cartItem.ShoppingCartId == this.Id);
+            var cartItems = _worldTechDbContext.ShoppingCartItems.Where(cartItem => cartItem.ShoppingCartId == this.Id);
             _worldTechDbContext.RemoveRange(cartItems);
 
             List<CurrentOrderDetail> currentOrders = _worldTechDbContext.CurrentOrderDetails.ToList();
@@ -109,6 +112,7 @@ namespace Services
 
             return numberOfItems;
         }
+
         public decimal GetTotalPrice()
         {
             decimal totalPrice = (decimal)_worldTechDbContext.ShoppingCartItems

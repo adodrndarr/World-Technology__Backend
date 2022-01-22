@@ -38,9 +38,10 @@ namespace Worldtech.Controllers
         {
             ViewData["Title"] = "Login";
 
-            if (!ModelState.IsValid) return View(loginViewModel);
-            IdentityUser user = await _userManager.FindByNameAsync(loginViewModel.Username);
+            if (!ModelState.IsValid) 
+                return View(loginViewModel);
 
+            IdentityUser user = await _userManager.FindByNameAsync(loginViewModel.Username);
             if (user != null)
             {                
                 var signInUser = await _signInManager.PasswordSignInAsync(user, loginViewModel.Password, false, false);

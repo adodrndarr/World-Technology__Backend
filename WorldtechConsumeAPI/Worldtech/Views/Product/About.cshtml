@@ -16,14 +16,14 @@
     <div class="col-md-6 text-center">
         <h3>
             <span class="color-lighBrown">Cheapest product:</span>
-            @Model.Products[0].Name (<span class="color-lightGreen">@Model.Products[0].Price.ToString("c")</span>)
+            @Model.Products[0]?.Name (<span class="color-lightGreen">@Model.Products[0]?.Price.ToString("c")</span>)
         </h3>
     </div>
 
     <div class="col-md-6 text-center">
         <h3>
             <span class="color-lighBrown">Most expensive product:</span>
-            @Model.Products[1].Name (<span class="color-lightGreen">@Model.Products[1].Price.ToString("c")</span>)
+            @Model.Products[1]?.Name (<span class="color-lightGreen">@Model.Products[1]?.Price.ToString("c")</span>)
         </h3>
     </div>
 

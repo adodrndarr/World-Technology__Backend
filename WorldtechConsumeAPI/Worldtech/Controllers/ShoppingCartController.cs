@@ -35,8 +35,7 @@ namespace Worldtech.Controllers
                 return RedirectToAction(nameof(ProductController.Index), nameof(Product));
             }
 
-            List<ShoppingCartItem> items = _shoppingCart.GetShoppingCartItems();
-            _shoppingCart.ShoppingCartItems = items;
+            _shoppingCart.ShoppingCartItems = _shoppingCart.GetShoppingCartItems();
 
             var shoppingCartVM = new ShoppingCartViewModel()
             {

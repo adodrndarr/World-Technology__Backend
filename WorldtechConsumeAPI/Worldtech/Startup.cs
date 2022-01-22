@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Data;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 
@@ -17,11 +18,13 @@ namespace Worldtech
 {
     public class Startup
     {
+        string nlogConfigFilePath = string.Concat(Directory.GetCurrentDirectory(), "/nlog.config");
+
         public IConfiguration Configuration { get; }
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
+            LogManager.LoadConfiguration(nlogConfigFilePath);
         }
 
 
@@ -45,9 +48,13 @@ namespace Worldtech
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerManager logger)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerManager logger, WorldtechDbContext worldtechDbContext)
         {
-            if (env.IsDevelopment()) app.UseDeveloperExceptionPage();            
+            if (env.IsDevelopment())
+            {
+                worldtechDbContext.Database.EnsureCreated();
+                app.UseDeveloperExceptionPage();
+            }           
             else app.UseHsts();
 
             app.ConfigureExceptionHandler(logger);

@@ -23,6 +23,7 @@ namespace WorldtechApi
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<IProductService, ProductService>();
+
             services.AddSwaggerGen(config =>
             {
                 config.SwaggerDoc("v1", new Info { Title = "Worldtech API", Version = "v1" });
@@ -40,7 +41,6 @@ namespace WorldtechApi
                 {
                     config.SwaggerEndpoint("/swagger/v1/swagger.json", "Worldtech v1 API");
                 });
-
             }
             else
             {

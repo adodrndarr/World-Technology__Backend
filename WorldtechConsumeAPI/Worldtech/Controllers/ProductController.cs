@@ -51,7 +51,8 @@ namespace Worldtech.Controllers
         {
             ViewData["Title"] = "Computers";
             List<ProductViewModel> computersVMs = _productService.GetComputers();
-            if(!HelperService.AProductExists(computersVMs)) RedirectToAction(nameof(ProductNotFound), new { message = "" });
+            if(!HelperService.AProductExists(computersVMs)) 
+                RedirectToAction(nameof(ProductNotFound), new { message = "" });
 
             _logger.LogInfo("Got computers from product service.");
             var productsVM = new ProductsViewModel() { Computers = computersVMs };
@@ -63,7 +64,8 @@ namespace Worldtech.Controllers
         {
             ViewData["Title"] = "Gadgets";
             List<ProductViewModel> gadgetsVMs = _productService.GetGadgets();
-            if (!HelperService.AProductExists(gadgetsVMs)) RedirectToAction(nameof(ProductNotFound), new { message = "" });
+            if (!HelperService.AProductExists(gadgetsVMs)) 
+                RedirectToAction(nameof(ProductNotFound), new { message = "" });
 
             _logger.LogInfo("Got gadgets from product service.");
             var productsVM = new ProductsViewModel() { Gadgets = gadgetsVMs };
@@ -75,7 +77,8 @@ namespace Worldtech.Controllers
         {
             ViewData["Title"] = "Laptops";
             List<ProductViewModel> laptopsVMs = _productService.GetLaptops();
-            if (!HelperService.AProductExists(laptopsVMs)) RedirectToAction(nameof(ProductNotFound), new { message = "" });
+            if (!HelperService.AProductExists(laptopsVMs)) 
+                RedirectToAction(nameof(ProductNotFound), new { message = "" });
 
             _logger.LogInfo("Got laptops from product service.");
             var productsVM = new ProductsViewModel() { Laptops = laptopsVMs };
@@ -87,11 +90,13 @@ namespace Worldtech.Controllers
         {
             ViewData["Title"] = "Search";
             List<ProductViewModel> productsVMs = _productService.GetAllProducts();
-            if (!HelperService.AProductExists(productsVMs)) RedirectToAction(nameof(ProductNotFound), new { message = "" });
+            if (!HelperService.AProductExists(productsVMs)) 
+                RedirectToAction(nameof(ProductNotFound), new { message = "" });
             _logger.LogInfo("Got products that user searched for from product service.");
 
             var productsFound = HelperService.GetProductsWithTerm(inputSearch, productsVMs);
-            if (productsFound.Count == 0) return RedirectToAction(nameof(ProductNotFound), new { message = inputSearch});
+            if (productsFound.Count == 0) 
+                RedirectToAction(nameof(ProductNotFound), new { message = inputSearch});
             else productsVMs = productsFound;
             
             var productsVM = new ProductsViewModel() { Products = productsVMs };
@@ -135,7 +140,8 @@ namespace Worldtech.Controllers
                 return RedirectToAction(nameof(About));
             }
 
-            if (!HelperService.IsStringOk(commentVM.Message)) return RedirectToAction(nameof(About)); 
+            if (!HelperService.IsStringOk(commentVM.Message)) 
+                return RedirectToAction(nameof(About)); 
                         
             _productService.SaveComment(commentVM);
             return RedirectToAction(nameof(About));            
