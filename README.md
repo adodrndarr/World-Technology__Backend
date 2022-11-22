@@ -3,4 +3,5 @@
 
 Development Environment Setup:
 1. Start WorldtechApi to serve some products
-2. 
+2. Install latest SQL Server (Developer Edition)
+3. Start Worldtech proejct to run the application
