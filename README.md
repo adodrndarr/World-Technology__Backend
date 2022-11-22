@@ -6,4 +6,4 @@ Development Environment Setup:
 2. Install latest SQL Server (Developer Edition)
 3. Start Worldtech project to run the application
 
-Info: Feel free to register with some user and enjoy your shopping :)
+- Feel free to register with some user and enjoy your shopping :)
